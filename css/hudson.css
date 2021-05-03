@@ -39,16 +39,27 @@ main{
 	font-size:15px;
 }
 .button:hover{
-	background-color:#0fbdab;
+	background-color:#80CBC4;
 }
 .button:active{
 	background-color:#00b3a1;
 }
-.button.buttonPost{
-	color:beige;
+.buttonFooter{
+	padding:10px;
+	margin:0px;
+	font-size:15px;
+}
+.buttonFooter:hover{
+	background-color:#ffffff4d;
+}
+.buttonFooter:active{
+	background-color:#ffffff33;
+}
+.dropdown:hover .dropdown-menu {
+   display: block !important;
 }
 a{
-	color:white;
+	color:#dbf0ee;
 	text-decoration:none;
 }
 a:hover{
